@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/yoan/OneDrive/Documents/GitHub/blinky/cmake/stm32cubemx
+# Install script for directory: C:/Users/yoan/OneDrive/Documents/GitHub/openocd_test/blinky/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/blinky")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/openocd_test/blinky")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

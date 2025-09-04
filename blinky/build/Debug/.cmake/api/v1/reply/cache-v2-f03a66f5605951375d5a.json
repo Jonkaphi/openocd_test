@@ -179,7 +179,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/yoan/OneDrive/Documents/GitHub/blinky/build/Debug"
+			"value" : "c:/Users/yoan/OneDrive/Documents/GitHub/openocd_test/blinky/build/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -619,7 +619,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/blinky/build/Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/openocd_test/blinky/build/Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/blinky"
+			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/openocd_test/blinky"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -691,7 +691,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/blinky"
+			"value" : "C:/Program Files (x86)/openocd_test/blinky"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -1155,11 +1155,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "The CMake toolchain file"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/blinky/cmake/gcc-arm-none-eabi.cmake"
+			"type" : "UNINITIALIZED",
+			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/openocd_test/blinky/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/blinky/build/Debug"
+			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/openocd_test/blinky/build/Debug"
 		},
 		{
 			"name" : "blinky_IS_TOP_LEVEL",
@@ -1211,7 +1211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/blinky"
+			"value" : "C:/Users/yoan/OneDrive/Documents/GitHub/openocd_test/blinky"
 		}
 	],
 	"kind" : "cache",
